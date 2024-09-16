@@ -1,17 +1,17 @@
 export const navbarData = {
-  homeTitle: 'Riyad\'s Blog',
+  homeTitle: 'The PM Insider',
 }
 
 export const footerData = {
-  author: 'Al Asad Nur Riyad',
+  author: 'The PM Insider',
   aboutAuthor: 'Hi! I am Riyad, a Tech enthusiast, problem solver and software engineer. Currently working at Appscode Inc.',
   authorInterest: 'I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you have an interesting idea, either open source or paid let\'s connect.',
   aboutTheSite: 'This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it\'s deployed in Vercel.',
 }
 
 export const homePage = {
-  title: 'Welcome To My Blog Site',
-  description: 'Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+  title: 'The PM Insider',
+  description: 'The PM Insider Is A Project Management Resources Of Guides, Tools And Tips To Boost Your Productivity As a Project Manager.',
 }
 
 export const blogsPage = {
@@ -20,7 +20,7 @@ export const blogsPage = {
 }
 
 export const categoryPage = {
-  title: 'Categories',
+  title: 'Topics',
   description: 'Blow this category is generated from all the tags are mentioned in the different blog post',
 }
 
