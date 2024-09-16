@@ -2,7 +2,7 @@
 import { navbarData } from '~/data'
 
 useHead({
-  title: 'Home',
+  title: 'The PM Insider',
   meta: [
     {
       name: 'description',
